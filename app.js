@@ -9,6 +9,5 @@
 
 const winner = require('./src/winner')
 
-console.log(winner.getWinners(['mats', 'John', 'john', 'Mats', 'jacob']))
-console.log(winner.getWinners(['mats', 'John', 'johan', 'Mats', 'jacob']))
-console.log(winner.getWinners(['mats', 'John', 'johan', 'Mats', 'jacob', 'Johan']))
+console.log(winner.getNamesOfWinners(['mats', 'John', 'johan', 'Mats', 'jacob']))
+console.log(winner.getNamesOfWinners(['mats', 'John', 'johan', 'Mats', 'jacob', 'Johan']))
