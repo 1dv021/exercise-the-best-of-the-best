@@ -1,9 +1,13 @@
 # De bästa av de bästa
 
 - C-nivå
-- [GitBook](https://coursepress.gitbooks.io/1dv021/content/ovningsuppgifter/del1/de-basta-av-de-basta/)
+- [GitBook](https://coursepress.gitbook.io/1dv021/ovningsuppgifter/del-1/c-niva/de-basta-av-de-basta)
+- [Lösningsförslag](https://github.com/1dv021/exercise-solution-proposals/tree/master/part-1/the-best-of-the-best)
 
->__VIKTIGT!__ Innan du börjar arbeta med övningsuppgiften är det viktigt att du följer guiden [Att komma igång med en övningsuppgift](https://coursepress.gitbooks.io/1dv021/content/guider/att-komma-igang-med-en-ovningsuppgift/) för att lägga till övningsuppgiftens repo till ditt repo för övningsuppgifter.
+
+>__VIKTIGT!__ Innan du börjar arbeta med övningsuppgiften är det viktigt att du följer guiden [Att komma igång med en övningsuppgift](https://coursepress.gitbook.io/1dv021/guider/att-komma-igang-med-en-ovningsuppgift) för att lägga till övningsuppgiftens repo till ditt repo för övningsuppgifter.
+
+## Uppgift
 
 Hämta hem övningsuppgiftens repo och lägg tillen .gitignore-fil. Öppna filen `winner.js` och komplettera funktionerna `getFrequenciesOfNames`, `getMostFrequentNames` och `sortNamesAscending`.
 
@@ -87,7 +91,3 @@ Funktioner, metoder, etc. som _kan_ komma till användning beroende hur du välj
 - [Object.keys](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/keys)
 - [Object.values](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/values)
 - [String.toLowerCase](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/toLowerCase)
-
-## Lösningsförslag
-
-- [https://github.com/1dv021/exercise-solution-proposals/tree/master/part-1/the-best-of-the-best](https://github.com/1dv021/exercise-solution-proposals/tree/master/part-1/the-best-of-the-best)
