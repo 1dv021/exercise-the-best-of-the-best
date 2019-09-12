@@ -4,7 +4,6 @@
 - [GitBook](https://coursepress.gitbook.io/1dv021/ovningsuppgifter/del-1/c-niva/de-basta-av-de-basta)
 - [Lösningsförslag](https://github.com/1dv021/exercise-solution-proposals/tree/master/part-1/the-best-of-the-best)
 
-
 >__VIKTIGT!__ Innan du börjar arbeta med övningsuppgiften är det viktigt att du följer guiden [Att komma igång med en övningsuppgift](https://coursepress.gitbook.io/1dv021/guider/att-komma-igang-med-en-ovningsuppgift) för att lägga till övningsuppgiftens repo till ditt repo för övningsuppgifter.
 
 ## Uppgift
@@ -20,7 +19,7 @@ Bland kursledarna finns en återkommande tävling där vinnarens namn i varje om
 ['mats', 'John', 'john', 'Johan', 'Jacob']
 ```
 
-Själva applikationen går ut på att utifrån en liknande array avgöra antalet förekomster av varje namn, sedan flitrera ut de namn med flest förekomster för att avgöra vinnaren/vinnarna och presentera dessas namn i en array som sorterats i bokstavsordning.
+Själva applikationen går ut på att utifrån en liknande array avgöra antalet förekomster av varje namn, sedan filtrera ut de namn med flest förekomster för att avgöra vinnaren/vinnarna och presentera dessas namn i en array som sorterats i bokstavsordning.
 
 För att lösa detta problem används alltså fyra olika funktioner, varav tre behöver kompletteras. Samtliga funktionen ska vara så kallade "pure functions", d.v.s. vara helt utan sidoeffekter.
 

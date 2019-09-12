@@ -49,11 +49,8 @@ function getNamesOfWinners (source) {
   // ---------------------------------------
   // Do not change the code in this function!
   // ---------------------------------------
-  let frequencies
-  let names
-
-  frequencies = getFrequenciesOfNames(source)
-  names = getMostFrequentNames(frequencies)
+  const frequencies = getFrequenciesOfNames(source)
+  const names = getMostFrequentNames(frequencies)
 
   return sortNamesAscending(names)
 }
